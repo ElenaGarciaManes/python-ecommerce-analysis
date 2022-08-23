@@ -36,4 +36,4 @@ The data used for this project is publicly available at the following sources:
 - [Colors data](https://data.world/dilumr/color-names)
 
 ## Statement of contributions 
-The code and analysis for this project were developed jointly by **Sofia Lai** and **[Elena García Mañes](https://github.com/ElenaGarciaManes)**
+The code and analysis for this project were developed jointly by **Elena García Mañes** and **[Sofia Lai](https://github.com/sofialai)**
